@@ -1,0 +1,1 @@
+Checks if a given number is divisible by 3. You must implement your own driver to make this repo work or just take the function for yourself and implement in your own program or in something like IDLE. GLHF!
